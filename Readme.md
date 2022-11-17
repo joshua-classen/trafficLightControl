@@ -6,4 +6,5 @@ I had uploaded this project to bitbucket years ago: https://bitbucket.org/ckrex/
 
 The Code was written in Atmel AVR studio.
 
-There is also a demo on youtube where I explain the Traffic Light Control: https://www.youtube.com/watch?v=wxdeP8pqVKY
+There is also a demo on youtube where I explain the Traffic Light Control:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wxdeP8pqVKY/0.jpg)](https://www.youtube.com/watch?v=wxdeP8pqVKY)
